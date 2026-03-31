@@ -1,5 +1,6 @@
 # Contributors
 - [serkansvmz](https://github.com/serkansvmz) 🚀
+- [Himanshu](https://github.com/Narwal-himanshu) 🐙
 - [Abhishek](https://github.com/abhishek-21f2000477)
 - Divyanshu Kumar
 - [Abhinav Maurya](https://github.com/fire162)
